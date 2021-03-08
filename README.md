@@ -11,3 +11,5 @@
 - 3.5 多クラスロジスティック回帰 (03_multi_class_logistic_regression.py)
 - 3.6 多層パーセプトロン (04_mlp.py)
 - 3.7 モデルの評価 (05_mlp_toy_problem.py)
+
+## 4章 ディープニューラルネットワーク
