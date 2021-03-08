@@ -14,3 +14,4 @@
 
 ## 4章 ディープニューラルネットワーク
 - 4.1 ディープラーニング向けライブラリの導入 (01_mlp_toy_problem_keras.py, 02_mlp_toy_problem_tf.py, 03_mlp_toy_problem_torch.py)
+- 4.2 ディープラーニングへの準備 (04_mnist_keras.py, 05_mnist_tf.py, 06_mnist_torch.py)
