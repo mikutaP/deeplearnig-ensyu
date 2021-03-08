@@ -13,3 +13,4 @@
 - 3.7 モデルの評価 (05_mlp_toy_problem.py)
 
 ## 4章 ディープニューラルネットワーク
+- 4.1 ディープラーニング向けライブラリの導入 (01_mlp_toy_problem_keras.py, 02_mlp_toy_problem_tf.py, 03_mlp_toy_problem_torch.py)
